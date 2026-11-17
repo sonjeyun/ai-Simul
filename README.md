@@ -56,3 +56,18 @@ python main.py
 11. 13×13 → 25×25는 연산 횟수가 약 3.7배, 시간이 약 3.4배로 N²에 거의 비례합니다. 크기가 클수록 고정 오버헤드의 비중이 줄어 이론값에 가까워집니다.
 12. 1차원 배열 방식은 인덱스 접근이 줄어 2D보다 약간 빠르지만, 복잡도는 동일하게 O(N²)입니다.
 13. 실제 AI 모델은 큰 필터를 수천 개 쓰므로 MAC 횟수가 폭증하며, 이를 병렬 처리하도록 설계된 것이 NPU입니다.
+
+
+
+<img width="1924" height="1904" alt="image" src="https://github.com/user-attachments/assets/89be9173-ed0f-450b-8ab2-af32c2c46da7" />
+
+
+
+<img width="1286" height="1769" alt="image" src="https://github.com/user-attachments/assets/7fbab71f-09ed-4c8c-9903-d7e16639d99a" />
+
+
+
+
+
+
+
